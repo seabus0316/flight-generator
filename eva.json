@@ -1,0 +1,85 @@
+{
+  "airline": "EVA",
+  "categories": {
+    "1": "North Asia",
+    "2": "Domestic",
+    "3": "Code Share",
+    "4": "South Asia",
+    "5": "China",
+    "6": "West World",
+    "7": "Pacific Ocean",
+    "8": "North America"
+  },
+  "airports": {
+    "1": {
+      "1": "RCTP",
+      "2": "RKSI",
+      "3": "RJAA",
+      "4": "RJBB",
+      "5": "RKPK",
+      "6": "ROAH",
+      "7": "RCSS",
+      "8": "RJCC",
+      "9": "RJTT",
+      "0": "RJOM"
+    },
+    "2": {
+      "1": "RCSS",
+      "2": "RCMQ",
+      "3": "RCKH",
+      "4": "RCYU",
+      "5": "RCQC",
+      "6": "RCLY",
+      "7": "RCBS",
+      "8": "SUNMOON"
+    },
+    "3": {
+      "3": ["RCTP","VHHH"],
+      "4": ["RCTP","VHHH"],
+      "5": ["RCTP","RJTT"],
+      "6": ["RJTT","RCTP"],
+      "7": ["RCKH","VHHH"],
+      "8": ["VHHH","RCKH"]
+    },
+    "4": {
+      "1": "RCTP",
+      "2": "WSSS",
+      "3": "VHHH",
+      "4": "VVTS",
+      "5": "VTBS",
+      "6": "VIDP",
+      "7": "WMKK",
+      "8": "RPLL",
+      "9": "VNKT",
+      "0": "WIII"
+    },
+    "5": {
+      "1": "RCTP",
+      "2": "ZSSS",
+      "3": "ZGGG",
+      "4": "ZGSZ",
+      "5": "ZBAA",
+      "6": "VMMC"
+    },
+    "6": {
+      "1": "RCTP",
+      "2": "LFPG",
+      "3": "OMDB",
+      "4": "EGLL"
+    },
+    "7": {
+      "1": "RCTP",
+      "2": "PHNL",
+      "3": "PTRO",
+      "4": "NFFN",
+      "5": "YSSY"
+    },
+    "8": {
+      "1": "RCTP",
+      "2": "KSFO",
+      "3": "PANC",
+      "4": "CYVR",
+      "5": "KJFK"
+    }
+  }
+}
